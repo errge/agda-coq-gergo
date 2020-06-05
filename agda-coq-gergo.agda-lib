@@ -1,0 +1,4 @@
+name: agda-coq-gergo
+depend:
+  standard-library
+include: .
